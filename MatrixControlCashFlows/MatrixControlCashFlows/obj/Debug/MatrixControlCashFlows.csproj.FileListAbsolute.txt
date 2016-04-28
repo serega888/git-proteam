@@ -1,1 +1,8 @@
 C:\projects\geekbrains\git-proteam\MatrixControlCashFlows\MatrixControlCashFlows\bin\Debug\MatrixControlCashFlows.exe.config
+C:\projects\geekbrains\git-proteam\MatrixControlCashFlows\MatrixControlCashFlows\bin\Debug\MatrixControlCashFlows.exe
+C:\projects\geekbrains\git-proteam\MatrixControlCashFlows\MatrixControlCashFlows\bin\Debug\MatrixControlCashFlows.pdb
+C:\projects\geekbrains\git-proteam\MatrixControlCashFlows\MatrixControlCashFlows\obj\Debug\MatrixControlCashFlows.csprojResolveAssemblyReference.cache
+C:\projects\geekbrains\git-proteam\MatrixControlCashFlows\MatrixControlCashFlows\obj\Debug\MatrixControlCashFlows.Properties.Resources.resources
+C:\projects\geekbrains\git-proteam\MatrixControlCashFlows\MatrixControlCashFlows\obj\Debug\MatrixControlCashFlows.csproj.GenerateResource.Cache
+C:\projects\geekbrains\git-proteam\MatrixControlCashFlows\MatrixControlCashFlows\obj\Debug\MatrixControlCashFlows.exe
+C:\projects\geekbrains\git-proteam\MatrixControlCashFlows\MatrixControlCashFlows\obj\Debug\MatrixControlCashFlows.pdb
